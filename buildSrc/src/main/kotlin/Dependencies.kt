@@ -1,1 +1,1 @@
-const val okHttpVersion = "4.4.1"
+const val okHttpVersion = "4.5.0"
